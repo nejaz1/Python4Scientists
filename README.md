@@ -27,7 +27,7 @@ conda env create -f environment.yml
 Switch to the newly created environment and run `sypder` using terminal:
 
 ```
-source environment pythonintro
+source activate pythonintro
 spyder
 ```
 
